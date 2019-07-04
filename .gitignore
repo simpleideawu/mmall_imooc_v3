@@ -1,0 +1,20 @@
+*.class
+#package file
+*.war
+*.ear
+*.prig
+
+target/
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
+
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+.DS_Store
